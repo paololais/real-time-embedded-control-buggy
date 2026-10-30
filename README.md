@@ -100,6 +100,6 @@ $PCSTT,*
 ```
 
 ## Authors
-- Paolo Laishram
-- Andrea Loforese
-- Filippo Salterini
+- [Paolo Laishram](https://github.com/paololais)
+- [Andrea Loforese](https://github.com/AndLof)
+- [Filippo Salterini](https://github.com/FilippoSalterini)
